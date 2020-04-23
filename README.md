@@ -61,7 +61,7 @@ Your submission should consist of the github link to your repository.  Your repo
 - The `dog_app.ipynb` file with fully functional code, all code cells executed and displaying output, and all questions answered.
 - An HTML or PDF export of the project notebook with the name `report.html` or `report.pdf`.
 
-Please do __NOT__ include any of the project data sets provided in the `dogImages/` or `lfw/` folders.
+Please do __NOT_ include any of the project data sets provided in the `dogImages/` or `lfw/` folders.
 
 ### Ready to submit your project?
 
